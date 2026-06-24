@@ -1,0 +1,22 @@
+MySQL Programming - Session 1 MCQ Answers
+
+1. A) Data Definition Language
+2. B) CREATE
+3. B) Modify table structure
+4. A) INSERT
+5. D) Data Manipulation Language
+6. B) DROP
+7. B) TRUNCATE is faster   
+8. B) UPDATE
+9. B) No
+10. A) Relational Database Management System
+11. D) All of the above
+12. C) Only if columns are combined
+13. D) Both B and C
+14. C) SECONDARY KEY
+15. A) Add new rows to table
+16. B) No
+17. A) Specifies which rows to update    
+18. A) UNIQUE
+19. C) Unknown/Missing value 
+20. A) Yes, using ALTER
